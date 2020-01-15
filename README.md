@@ -13,7 +13,7 @@ Ez S316 Face Scan 是一MS Windows的程式，可透過EzRGBD ToF相機來進行
   * Install the MS Visual C++ Redistributable for Visual Studio 2015. Or you can find the installer [here](https://github.com/kevinliu-ez/Ez-S316-viewer/blob/master/Setup/MSVCRedist_x64_VS2015-2017-2019.exe) in the repository.
 
 ## Usage
-The viewer has two modes, 'Preview' (PREVIEW) and 'Point Cloud' (POINT_CLOUD) modes. To start the viewer, please run the application located at 'EzS316Viewer\EzS316Viewer.exe'. The viewer will be in 'Preview' mode after it started.
+The viewer has two modes, 'Preview' (PREVIEW) and 'Face Scan' (FACE_SCAN) modes. To start the viewer, please run the application located at 'RC1\Ez3DFaceScan.exe'. The viewer will be in 'Preview' mode after it started.
 
 <p align="center"> 
 <img src="https://github.com/kevinliu-ez/Ez-3DMM-face-viewer/blob/master/README/Viewer_StateMachine.png">
