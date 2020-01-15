@@ -34,6 +34,6 @@ Ez S316 Face Scan 是一MS Windows的程式，可透過EzRGBD ToF相機來進行
   * 掃描結果將存於資料夾中的"Ez3DFaceScan.isomap.png"、"Ez3DFaceScan.mtl"、"Ez3DFaceScan.obj"，分別為材質檔、配置檔、與三角網格檔。<br>![](https://github.com/kevinliu-ez/Ez-3DMM-face-viewer/blob/master/README/OutputFiles.png)
   * 可利用MashLab讀取"Ez3DFaceScan.obj"，來顯示臉部掃描結果。<br>![](https://github.com/kevinliu-ez/Ez-3DMM-face-viewer/blob/master/README/ScanResults.png)
 
-## 進行中項目
+## 註︰待執行項目
 * 由臉部掃描的3D surface建立3D列印時所需的厚度體積。
 * 臉部輪廓的手動調整，如胖、瘦等。
