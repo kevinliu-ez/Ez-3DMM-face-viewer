@@ -16,11 +16,11 @@ Ez S316 Face Scan 是一MS Windows的程式，可透過EzRGBD ToF相機來進行
 The viewer has two modes, 'Preview' (PREVIEW) and 'Point Cloud' (POINT_CLOUD) modes. To start the viewer, please run the application located at 'EzS316Viewer\EzS316Viewer.exe'. The viewer will be in 'Preview' mode after it started.
 
 <p align="center"> 
-<img src="https://github.com/kevinliu-ez/Ez-S316-viewer/blob/master/README/Viewer_StateMachine.png">
+<img src="https://github.com/kevinliu-ez/Ez-3DMM-face-viewer/blob/master/README/Viewer_StateMachine.png">
 </p>
 
 * Preview mode:
-![](https://github.com/kevinliu-ez/Ez-S316-viewer/blob/master/README/EzS316Viewer.png)
+![](https://github.com/kevinliu-ez/Ez-3DMM-face-viewer/blob/master/README/GUI_FaceROI.png)
   * To capture the 3D RGB point cloud of the scene, please short press (<0.5 second) key 'p'. The virtual camera may be located behind the axis mark (the opened window shows only GREEN, BLACK and RED blocks), pressing 'r' after the windows opened is recommended.
   * To exit, please short press (<0.5 second) key 'q'.
 
