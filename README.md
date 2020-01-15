@@ -3,14 +3,14 @@
 
 Ez S316 Face Scan 是一MS Windows的程式，可透過EzRGBD ToF相機來進行人臉掃描。
 
-## Setup
+## 安裝與設置
 * Hardware
-  * Plug the USB DC power supply into a power outlet.
-  * Connect a USB 3.0 cable from the EzRGBD device to your MS Windows computer.
-  * Connect a USB 2.0 cable from the USB DC power supply to the EzRGBD device.
-  * The current configuration of the device is optimized for static scenes, a tripod is recommended for holding the device.
+  * 插入USB DC電源變壓器至插座。
+  * 連接USB 3.0訊號線至EzRGBD ToF相機與MS Windows電腦。
+  * 連接USB 2.0訊號線USB DC變壓器與EzRGBD ToF相機。
+  * 將相機與光源置於腳架上，並調整好角度。
 * Software
-  * Install the MS Visual C++ Redistributable for Visual Studio 2017. Or you can find the installer [here](https://github.com/kevinliu-ez/Ez-S316-viewer/blob/master/Setup/MSVCRedist_x64_VS2015-2017-2019.exe) in the repository.
+  * 安裝MS Visual C++ Redistributable for Visual Studio 2017。或可由以下位置安裝[here](https://github.com/kevinliu-ez/Ez-3DMM-face-viewer/blob/master/Setup/MSVCRedist_x64_VS2015-2017-2019.exe) in the repository.
 
 ## Usage
 The viewer has two modes, 'Preview' (PREVIEW) and 'Face Scan' (FACE_SCAN) modes. To start the viewer, please run the application located at 'RC1\Ez3DFaceScan.exe'. The viewer will be in 'Preview' mode after it started.
