@@ -21,8 +21,8 @@ The viewer has two modes, 'Preview' (PREVIEW) and 'Face Scan' (FACE_SCAN) modes.
 
 * Preview mode:
 ![](https://github.com/kevinliu-ez/Ez-3DMM-face-viewer/blob/master/README/GUI_FaceROI.png)
-  * To capture the 3D RGB point cloud of the scene, please short press (<0.5 second) key 'p'. The virtual camera may be located behind the axis mark (the opened window shows only GREEN, BLACK and RED blocks), pressing 'r' after the windows opened is recommended.
-  * To exit, please short press (<0.5 second) key 'q'.
+  * 要進行臉部掃描時，請將臉置於綠框中，並按下按鍵'c'。建議的掃描距離(相機至臉部)為20cm。
+  * 要離開程式時，請按下按鍵'q'。
 
 * Face Scan mode:
 ![](https://github.com/kevinliu-ez/Ez-3DMM-face-viewer/blob/master/README/GUI_Prcing.png)
