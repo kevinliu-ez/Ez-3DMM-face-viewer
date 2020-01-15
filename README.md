@@ -1,5 +1,5 @@
 # Ez S316 Face Scan (for Engineering Purpose)
-[[中文]](README.md) [EN]
+[[中文]](README.md) [[EN]](README.en.md)
 
 Ez S316 Face Scan 是一MS Windows的程式，可透過EzRGBD ToF相機來進行人臉掃描。
 
