@@ -4,7 +4,7 @@
 Ez S316 Face Scan 是一MS Windows的程式，可透過EzRGBD ToF相機來進行人臉掃描。
 
 ## 下載
-  請按此處下載<a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/kevinliu-ez/Ez-3DMM-face-viewer/tree/master/RC1" target="_blank">[HERE]</a>
+  請按此處下載<a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/kevinliu-ez/Ez-3DMM-face-viewer/tree/master/RC1" target="_blank">[HERE]</a>。
 
 ## 安裝與設置
 * Hardware
