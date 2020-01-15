@@ -27,6 +27,6 @@ The viewer has two modes, 'Preview' (PREVIEW) and 'Face Scan' (FACE_SCAN) modes.
 * Face Scan mode:
 ![](https://github.com/kevinliu-ez/Ez-3DMM-face-viewer/blob/master/README/GUI_Prcing.png)
   * 於Preview mode中按下'c'後，程式開始進行臉部掃描，並顯示"Processing"。完成後會自行跳回Preview mode，並結束顯示"Processing"。
-  * ![](https://github.com/kevinliu-ez/Ez-3DMM-face-viewer/blob/master/README/OutputFiles.png)<br>掃描結果將存於資料夾中的"Ez3DFaceScan.isomap.png"、"Ez3DFaceScan.mtl"、"Ez3DFaceScan.obj"，分別為材質檔、配置檔、與三角網格檔。
-  * ![](https://github.com/kevinliu-ez/Ez-3DMM-face-viewer/blob/master/README/ScanResults.png)<br>可利用MashLab讀取"Ez3DFaceScan.obj"，來顯示臉部掃描結果。
+  * 掃描結果將存於資料夾中的"Ez3DFaceScan.isomap.png"、"Ez3DFaceScan.mtl"、"Ez3DFaceScan.obj"，分別為材質檔、配置檔、與三角網格檔。<br>![](https://github.com/kevinliu-ez/Ez-3DMM-face-viewer/blob/master/README/OutputFiles.png)
+  * 可利用MashLab讀取"Ez3DFaceScan.obj"，來顯示臉部掃描結果。<br>![](https://github.com/kevinliu-ez/Ez-3DMM-face-viewer/blob/master/README/ScanResults.png)
 
