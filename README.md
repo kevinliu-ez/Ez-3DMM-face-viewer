@@ -26,8 +26,8 @@ The viewer has two modes, 'Preview' (PREVIEW) and 'Face Scan' (FACE_SCAN) modes.
 
 * Face Scan mode:
 ![](https://github.com/kevinliu-ez/Ez-3DMM-face-viewer/blob/master/README/GUI_Prcing.png)
-  * To reset the pose of the virtual camera, please press 'r'.
-  * To change the position of the virtual camera, please use the left button of mouse and then drag.
+  * 於Preview mode中按下'c'後，程式開始進行臉部掃描，並顯示"Processing"。完成後會自行跳回Preview mode，並結束顯示"Processing"。
+  * ![](https://github.com/kevinliu-ez/Ez-3DMM-face-viewer/blob/master/README/OutputFiles.png)掃描結果將存於資料夾中的.
   * To enlarge or decrease the size of points, please press '+' or '-' respectively.
   * To exit, please short press (<0.5 second) key 'q'.
 
