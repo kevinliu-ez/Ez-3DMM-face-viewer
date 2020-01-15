@@ -10,17 +10,17 @@ Ez S316 Face Scan is a lightweight MS Windows application that provides basic fu
   * Connect a USB 2.0 cable from the USB DC power supply to the EzRGBD device.
   * The current configuration of the device is optimized for static scenes, a tripod is recommended for holding the device.
 * Software
-  * Install the MS Visual C++ Redistributable for Visual Studio 2015. Or you can find the installer [here](https://github.com/kevinliu-ez/Ez-S316-viewer/blob/master/Setup/MSVCRedist_x64_VS2015-2017-2019.exe) in the repository.
+  * Install the MS Visual C++ Redistributable for Visual Studio 2017. Or you can find the installer [here](https://github.com/kevinliu-ez/Ez-S316-viewer/blob/master/Setup/MSVCRedist_x64_VS2015-2017-2019.exe) in the repository.
 
 ## Usage
-The viewer has two modes, 'Preview' (PREVIEW) and 'Point Cloud' (POINT_CLOUD) modes. To start the viewer, please run the application located at 'EzS316Viewer\EzS316Viewer.exe'. The viewer will be in 'Preview' mode after it started.
+The viewer has two modes, 'Preview' (PREVIEW) and 'Face Scan' (FACE_SCAN) modes. To start the viewer, please run the application located at 'RC1\Ez3DFaceScan.exe'. The viewer will be in 'Preview' mode after it started.
 
 <p align="center"> 
-<img src="https://github.com/kevinliu-ez/Ez-S316-viewer/blob/master/README/Viewer_StateMachine.png">
+<img src="https://github.com/kevinliu-ez/Ez-3DMM-face-viewer/blob/master/README/Viewer_StateMachine.png">
 </p>
 
 * Preview mode:
-![](https://github.com/kevinliu-ez/Ez-S316-viewer/blob/master/README/EzS316Viewer.png)
+![](https://github.com/kevinliu-ez/Ez-3DMM-face-viewer/blob/master/README/EzS316Viewer.png)
   * To capture the 3D RGB point cloud of the scene, please short press (<0.5 second) key 'p'. The virtual camera may be located behind the axis mark (the opened window shows only GREEN, BLACK and RED blocks), pressing 'r' after the windows opened is recommended.
   * To exit, please short press (<0.5 second) key 'q'.
 
