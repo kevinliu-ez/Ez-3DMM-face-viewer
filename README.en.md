@@ -1,4 +1,5 @@
 # Ez S316 Face Scan (for Engineering Purpose)
+[[中文]](README.md) [[EN]](README.en.md)
 
 Ez S316 Face Scan is a lightweight MS Windows application that provides basic functionality to do 3D face scan from the EzRGBD device.
 
