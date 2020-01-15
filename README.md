@@ -24,8 +24,8 @@ The viewer has two modes, 'Preview' (PREVIEW) and 'Face Scan' (FACE_SCAN) modes.
   * To capture the 3D RGB point cloud of the scene, please short press (<0.5 second) key 'p'. The virtual camera may be located behind the axis mark (the opened window shows only GREEN, BLACK and RED blocks), pressing 'r' after the windows opened is recommended.
   * To exit, please short press (<0.5 second) key 'q'.
 
-* Point Cloud mode:
-![](https://github.com/kevinliu-ez/Ez-S316-viewer/blob/master/README/EzS316Viewer_RGBDPtCloud.png)
+* Face Scan mode:
+![](https://github.com/kevinliu-ez/Ez-3DMM-face-viewer/blob/master/README/GUI_Prcing.png)
   * To reset the pose of the virtual camera, please press 'r'.
   * To change the position of the virtual camera, please use the left button of mouse and then drag.
   * To enlarge or decrease the size of points, please press '+' or '-' respectively.
