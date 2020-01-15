@@ -20,7 +20,7 @@ The viewer has two modes, 'Preview' (PREVIEW) and 'Face Scan' (FACE_SCAN) modes.
 </p>
 
 * Preview mode:
-![](https://github.com/kevinliu-ez/Ez-3DMM-face-viewer/blob/master/README/EzS316Viewer.png)
+![](https://github.com/kevinliu-ez/Ez-3DMM-face-viewer/blob/master/README/GUI_FaceROI.png)
   * To capture the 3D RGB point cloud of the scene, please short press (<0.5 second) key 'p'. The virtual camera may be located behind the axis mark (the opened window shows only GREEN, BLACK and RED blocks), pressing 'r' after the windows opened is recommended.
   * To exit, please short press (<0.5 second) key 'q'.
 
