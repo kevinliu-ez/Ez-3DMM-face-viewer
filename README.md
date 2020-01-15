@@ -4,7 +4,7 @@
 Ez S316 Face Scan 是一MS Windows的程式，可透過EzRGBD ToF相機來進行人臉掃描。
 
 ## 下載
-  請按此處下載[HERE](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/kevinliu-ez/Ez-3DMM-face-viewer/tree/master/RC1)。
+  請按此處下載[HERE](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/kevinliu-ez/Ez-3DMM-face-viewer/tree/master/RC1){:target="_blank"}。
 
 ## 安裝與設置
 * Hardware
@@ -16,7 +16,7 @@ Ez S316 Face Scan 是一MS Windows的程式，可透過EzRGBD ToF相機來進行
   * 安裝MS Visual C++ Redistributable for Visual Studio 2017。或可由以下位置安裝[HERE](https://github.com/kevinliu-ez/Ez-3DMM-face-viewer/blob/master/Setup/MSVCRedist_x64_VS2015-2017-2019.exe)。
 
 ## Usage
-The viewer has two modes, 'Preview' (PREVIEW) and 'Face Scan' (FACE_SCAN) modes. To start the viewer, please run the application located at 'RC1\Ez3DFaceScan.exe'. The viewer will be in 'Preview' mode after it started.
+此程式有兩狀態，'Preview' (PREVIEW)與'Face Scan' (FACE_SCAN)狀態。要開起程式時，請執行以下檔案'RC1\Ez3DFaceScan.exe'。程式開起時將於'Preview'狀態中。
 
 <p align="center"> 
 <img src="https://github.com/kevinliu-ez/Ez-3DMM-face-viewer/blob/master/README/Viewer_StateMachine.png">
